@@ -50,5 +50,5 @@
 
 ## 鸣谢
 
-- **一言接口**：https://v1.hitokoto.cn/
-- **古诗词接口**：https://v1.jinrishici.com/all.json
+- **一言接口**(https://v1.hitokoto.cn)
+- **古诗词接口**(https://v1.jinrishici.com)
